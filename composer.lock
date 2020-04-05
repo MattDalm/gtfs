@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "bc6cf3175c9b0e2b0501d9f91f574fb1",
+    "content-hash": "ceb812e9014e189d4920683e2425583f",
     "packages": [
         {
             "name": "google/protobuf",
