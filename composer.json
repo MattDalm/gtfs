@@ -1,6 +1,6 @@
 {
 
-    "name":         "MattDalm/gtfs",
+    "name":         "mattdalmau/gtfs",
     "description":  "Parsing protobuf GTFS for MTA",
     "type":         "library",
     "authors":      [
