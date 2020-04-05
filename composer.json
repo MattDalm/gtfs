@@ -17,7 +17,8 @@
 
     "autoload": {
         "psr-4": {
-            "Gtfs\\":   "src/"
+            "Transit_realtime\\":   "src/Transit_realtime/",
+            "GPBMetadata\\": "src/GPBMetadata"
         }
     }
     
