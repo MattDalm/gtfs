@@ -1,0 +1,24 @@
+{
+
+    "name":         "MattDalm/gtfs",
+    "description":  "Parsing protobuf GTFS for MTA",
+    "type":         "library",
+    "authors":      [
+        {
+            "name":      "Matt"
+        }
+    ],
+
+
+    "require": {
+        "php": "^7.2",      
+		"google/protobuf": "*"	        
+    },
+
+    "autoload": {
+        "psr-0": {
+            "MattDalm\\gtfs":   "src/"
+        }
+    }
+    
+}
