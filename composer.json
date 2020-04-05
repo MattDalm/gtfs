@@ -16,8 +16,8 @@
     },
 
     "autoload": {
-        "psr-0": {
-            "MattDalm\\gtfs":   "src/"
+        "psr-4": {
+            "Gtfs\\":   "src/"
         }
     }
     
